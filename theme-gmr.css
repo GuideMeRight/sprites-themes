@@ -1,0 +1,85 @@
+.theme-gmr {
+  background-color: #fcfcfc;
+  font-family: 'Nunito', sans-serif;
+  font-size: 2.3vw;
+  color: #50575d;
+  text-shadow: 0 1px 3px #fff;
+}
+.theme-gmr .high-contrast {
+  color: #50575d;
+}
+.theme-example .accent-1 {
+  color: #D9150B;
+}
+.theme-example .accent-1.accent-background {
+  background-color: #D9150B;
+}
+.theme-example .accent-1.accent-border {
+  border-color: #D9150B;
+}
+.theme-example .accent-2 {
+  color: #F29422;
+}
+.theme-example .accent-2.accent-background {
+  background-color: #F29422;
+}
+.theme-example .accent-2.accent-border {
+  border-color: #F29422;
+}
+.theme-example .accent-3 {
+  color: #30AAE2;
+}
+.theme-example .accent-3.accent-background {
+  background-color: #30AAE2;
+}
+.theme-example .accent-3.accent-border {
+  border-color: #30AAE2;
+}
+.theme-example .accent-4 {
+  color: #0D5FA6;
+}
+.theme-example .accent-4.accent-background {
+  background-color: #0D5FA6;
+}
+.theme-example .accent-4.accent-border {
+  border-color: #0D5FA6;
+}
+.theme-example .type-fact .fact-primary {
+  padding-top: 0.5vw;
+  padding-right: 1.2vw;
+}
+.theme-example .type-fact .fact-secondary .title {
+  padding: 0;
+  background: transparent;
+  height: 5vw;
+  line-height: 4vw;
+}
+.theme-example .type-fact .fact-secondary .title .quantity,
+.theme-example .type-fact .fact-secondary .title .measure {
+  font-weight: bold;
+  font-size: 3vw;
+}
+.theme-example .type-fact .fact-secondary .title .quantity {
+  font-size: 4vw;
+}
+.theme-example .type-fact .fact-secondary .title .measure {
+  color: #50575d;
+}
+.theme-example .type-fact .fact-secondary .description {
+  font-size: 85%;
+}
+.theme-example .type-map .element-inner path {
+  stroke: #fff;
+}
+.theme-example .type-map .element-inner path[fill="white"] {
+  fill: #8A8A8A;
+}
+.theme-example .type-table table.table tr th {
+  border-bottom: 1px solid #ddd;
+}
+.theme-example .type-table table.table tr.mark td {
+  color: #FC4B50;
+}
+.theme-example .type-line .line {
+  background-color: #ddd;
+}
